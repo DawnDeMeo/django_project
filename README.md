@@ -3,4 +3,4 @@ Based on the YouTube series by [Corey Schafer](https://www.youtube.com/playlist?
 
 A full-feature web app with blog, database, user authentication, and more.
 
-A working demo can be found [here](http://97.107.133.193).
+A working demo with sample data can be found on my [development site](https://www.dawndemeo-dev.com).
